@@ -21,7 +21,7 @@ repository               : "jinsongbao/jinsongbao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/bao-upscale4.png"
+  avatar           : "profile.png"
   name             : "BAO JINSONG"
   pronouns         : # example: "she/her"  
   bio              : "Professor,PhD. Director Institute of Intelligent Manufacturing"
