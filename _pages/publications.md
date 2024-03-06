@@ -28,9 +28,9 @@ author_profile: true
 
 2023
 ======
-1. 张辉辉,郑龙辉,孙奕程,杨芸,李婕,黄德林,**鲍劲松***,张丹.基于数字孪生的行车多因素隐性级联故障诊断[J].计算机集成制造系统,2023,29(06):2086-2101.
+1. 张辉辉,郑龙辉,孙奕程,杨芸,李婕,黄德林,**鲍劲松**,张丹.基于数字孪生的行车多因素隐性级联故障诊断[J].计算机集成制造系统,2023,29(06):2086-2101.
 
-2. 孙志强,郑杭彬,吕超凡,孙学民,**鲍劲松***.基于神经渲染的数字孪生资产快速场景几何建模与检索方法[J].计算机集成制造系统. 2023
+2. 孙志强,郑杭彬,吕超凡,孙学民,**鲍劲松**.基于神经渲染的数字孪生资产快速场景几何建模与检索方法[J].计算机集成制造系统. 2023
 
 3. 胡志强,刘鸣飞,李琦,李心雨*,**鲍劲松**.基于多源异构数据的风机多模态装配工艺知识图谱建模[J/OL].上海交通大学学报.2023.
 
@@ -56,7 +56,7 @@ author_profile: true
 
 2022
 ======
-1. 刘世民, 孙学民, 陆玉前, 王柏村, **鲍劲松***, 郭国强. 知识驱动的加工产品数字孪生拟态建模方法 [J]. 机械工程学报. 2022
+1. 刘世民, 孙学民, 陆玉前, 王柏村, **鲍劲松**, 郭国强. 知识驱动的加工产品数字孪生拟态建模方法 [J]. 机械工程学报. 2022
 
 2. **鲍劲松**,张荣,李婕,陆玉前,彭涛.面向人-机-环境共融的数字孪生协同技术[J/OL].机械工程学报. 2022
 
@@ -106,19 +106,19 @@ author_profile: true
 2021
 ======
 
-1. 刘天元,郑杭彬,杨长祺,**鲍劲松***,汪俊亮,顾俊.面向激光焊接缺陷识别的可解释性深度学习方法. 航空学报.
+1. 刘天元,郑杭彬,杨长祺,**鲍劲松**,汪俊亮,顾俊.面向激光焊接缺陷识别的可解释性深度学习方法. 航空学报.
 
-2. **鲍劲松***,江亚南,刘家雨.面向认知的新一代纺织智能制造体系. 东华大学学报(自然科学版).
+2. **鲍劲松**,江亚南,刘家雨.面向认知的新一代纺织智能制造体系. 东华大学学报(自然科学版).
 
-3. 殷士勇,**鲍劲松***,唐仕喜,杨芸.环锭纺纱信息物理生产系统建模方法[J].纺织学报,2021,42(02):65-73. 
+3. 殷士勇,**鲍劲松**,唐仕喜,杨芸.环锭纺纱信息物理生产系统建模方法[J].纺织学报,2021,42(02):65-73. 
 
-4. 许敏俊,刘世民,沈慧,郑宇,李婕,**鲍劲松***,郑小虎,陈革.数字孪生驱动下的弱刚性钻削毛刺控制[J].计算机集成制造系统,2021,1-18.
+4. 许敏俊,刘世民,沈慧,郑宇,李婕,**鲍劲松**,郑小虎,陈革.数字孪生驱动下的弱刚性钻削毛刺控制[J].计算机集成制造系统,2021,1-18.
 
 5. 孙学民,刘世民,申兴旺,黄德林,**鲍劲松**.数字孪生驱动的高精密产品智能化装配方法[J].计算机集成制造系统, 2021: 1-17.
 
-6. 吕超凡,言颖杰,林力,柴岗,**鲍劲松***. 基于点云语义分割算法的下颌角截骨面设计[J].上海交通大学学报,2021.
+6. 吕超凡,言颖杰,林力,柴岗,**鲍劲松**. 基于点云语义分割算法的下颌角截骨面设计[J].上海交通大学学报,2021.
 
-7. 吕超凡,黄德林,刘天元,周亚勤,**鲍劲松***. 基于点云深度学习的加工特征识别方法[J].计算机集成制造系统,2021.
+7. 吕超凡,黄德林,刘天元,周亚勤,**鲍劲松**. 基于点云深度学习的加工特征识别方法[J].计算机集成制造系统,2021.
 
 1. Tianyuan Liu, Jiacheng Wang, Xiaodi Huang, Yuqian Lu, **Jinsong Bao**. 3DSMDA-Net：an improved 3DCNN with separable structure and multi-dimensional attention for welding status recognition[J]. Journal of Manufacturing Systems, 2021.
 
@@ -130,17 +130,17 @@ author_profile: true
 
 5. Qibing Lv, Rong Zhang, Xuemin Sun, Yuqian Lu, **Jinsong Bao**. A digital twin-driven human-robot collaborative assembly approach in the wake of COVID-19[J]. Journal of Manufacturing Systems, 2021.
 
-6. Zhou Bin, **Bao Jinsong***, Li Jie, Lu Yuqian, Liu Tianyuan, Zhang Qiwan. A novel knowledge graph-based optimization approach for resource allocation in discrete manufacturing workshops[J]. Robotics and Computer-Integrated Manufacturing. 2021, 71, 102160. https://doi.org/10.1016/j.rcim.2021.102160
+6. Zhou Bin, **Bao Jinsong**, Li Jie, Lu Yuqian, Liu Tianyuan, Zhang Qiwan. A novel knowledge graph-based optimization approach for resource allocation in discrete manufacturing workshops[J]. Robotics and Computer-Integrated Manufacturing. 2021, 71, 102160. https://doi.org/10.1016/j.rcim.2021.102160
 
-7. Liu Shimin, Lu Yuqian, Li Jie, Song Dengqiang, Sun Xuemin, **Bao Jinsong***. Multi-scale evolution mechanism and knowledge construction of a digital twin mimic model[J]. Robotics and Computer-Integrated Manufacturing. 2021, 71, 102123. https://doi.org/10.1016/j.rcim.2021.102123
+7. Liu Shimin, Lu Yuqian, Li Jie, Song Dengqiang, Sun Xuemin, **Bao Jinsong**. Multi-scale evolution mechanism and knowledge construction of a digital twin mimic model[J]. Robotics and Computer-Integrated Manufacturing. 2021, 71, 102123. https://doi.org/10.1016/j.rcim.2021.102123
 
 8. Rong Zhang, Qibin Lv, Jie Li, **Jinsong Bao**, Tianyuan Liu, Shimin Liu. A reinforcement learning method for human-robot collaboration in assembly tasks[J]. Robotics and Computer-Integrated Manufacturing. 2022, 73, 102227. https://doi.org/10.1016/j.rcim.2021.102227.
 
 9. Minjun Xu, Shimin Liu, Hui Shen, **Jinsong Bao**. Process‑oriented unstable state monitoring and strategy recommendation for burr suppression of weak rigid drilling system driven by digital twin[J]. The International Journal of Advanced Manufacturing Technology, 2021.
 
-10. Shen Xingwang, Liu Shimin, Zhang Can, **Bao Jinsong***. Intelligent material distribution and optimization in the assembly process of large offshore crane lifting equipment[J]. Computers & Industrial Engineering. 2021, 159: 107496.
+10. Shen Xingwang, Liu Shimin, Zhang Can, **Bao Jinsong**. Intelligent material distribution and optimization in the assembly process of large offshore crane lifting equipment[J]. Computers & Industrial Engineering. 2021, 159: 107496.
 
-11. LIU Shimin, **Bao Jinsong***, Lu Yuqian, Li Jie, Lu Shanyu, Sun Xuemin. Digital twin modeling method based on biomimicry for machining aerospace components[J]. Journal of Manufacturing Systems. 2021, 58:18095.doi:10.1016/j.jmsy.2020.04.14 (ESI 高被引)
+11. LIU Shimin, **Bao Jinsong**, Lu Yuqian, Li Jie, Lu Shanyu, Sun Xuemin. Digital twin modeling method based on biomimicry for machining aerospace components[J]. Journal of Manufacturing Systems. 2021, 58:18095.doi:10.1016/j.jmsy.2020.04.14 (ESI 高被引)
 
 12. Bin Zhou, Bao Hua, Xinghai Gu, Yuqian Lu, Tao Peng, Yu Zheng, Xingwang Shen, **Jinsong Bao**. An end-to-end tabular information-oriented causality event evolutionary knowledge graph for manufacturing documents[J]. Advanced Engineering Informatics, 2021.
 
@@ -148,47 +148,47 @@ author_profile: true
 2020
 ======
 
-1. 刘天元,**鲍劲松***,汪俊亮,郑小虎,王佳铖.受限解空间下粗粒度正则化的熔池边缘自适应检测方法. 焊接学报
+1. 刘天元,**鲍劲松**,汪俊亮,郑小虎,王佳铖.受限解空间下粗粒度正则化的熔池边缘自适应检测方法. 焊接学报
 
-2. 刘天元,**鲍劲松***,汪俊亮,顾俊.融合时序信息的激光焊接熔透状态识别方法. 中国激光.
+2. 刘天元,**鲍劲松**,汪俊亮,顾俊.融合时序信息的激光焊接熔透状态识别方法. 中国激光.
 
-3. 宋邓强,周彬,申兴旺,**鲍劲松***,周亚勤.面向船舶分段制造过程的动态知识图谱建模方法.上海交通大学学报
+3. 宋邓强,周彬,申兴旺,**鲍劲松**,周亚勤.面向船舶分段制造过程的动态知识图谱建模方法.上海交通大学学报
 
-4. 王佳铖,**鲍劲松***,刘天元,李志强. 基于工件注意力的车间作业行为在线识别方法.计算机集成制造系统
+4. 王佳铖,**鲍劲松**,刘天元,李志强. 基于工件注意力的车间作业行为在线识别方法.计算机集成制造系统
 
-5. 卢山雨,刘世民,丁志昆,**鲍劲松***.基于增强现实的数字孪生加工系统建模与多视图交互研究.计算机集成制造系统
+5. 卢山雨,刘世民,丁志昆,**鲍劲松**.基于增强现实的数字孪生加工系统建模与多视图交互研究.计算机集成制造系统
 
-6. 胡富琴,杨芸,刘世民,郑小虎,吕晓雷,**鲍劲松***.航天薄壁件旋压成型数字孪生高保真建模方法.计算机集成制造系统
+6. 胡富琴,杨芸,刘世民,郑小虎,吕晓雷,**鲍劲松**.航天薄壁件旋压成型数字孪生高保真建模方法.计算机集成制造系统
 
-7. 顾星海, **鲍劲松***, 吕超凡. 基于知识图谱的装配语义建模. 航空制造技术
+7. 顾星海, **鲍劲松**, 吕超凡. 基于知识图谱的装配语义建模. 航空制造技术
 
-8. 余石龙,**鲍劲松***,李婕,张启华.基于误差注意力的晶圆制造数据异常检测[J].中国机械工程,2020,31(14):1686-1692.
+8. 余石龙,**鲍劲松**,李婕,张启华.基于误差注意力的晶圆制造数据异常检测[J].中国机械工程,2020,31(14):1686-1692.
 
-1. YIN Shiyong, **Bao Jinsong***, Zhang Jie, Li Jie, Wang Junliang, Huang Xiaodi. Real-time task processing for spinning cyber-physical production systems based on edge computing[J]. Journal of Intelligent Manufacturing. 2020.06，doi.org/10.1007/s10845-020-01553-6
+1. YIN Shiyong, **Bao Jinsong**, Zhang Jie, Li Jie, Wang Junliang, Huang Xiaodi. Real-time task processing for spinning cyber-physical production systems based on edge computing[J]. Journal of Intelligent Manufacturing. 2020.06，doi.org/10.1007/s10845-020-01553-6
 
-2. LIU Tianyuan, **Bao Jinsong***, Wang Junliang, Zhang Yiming. A Coarse-Grained Regularization Method of Convolutional Kernel for Molten Pool Defect Identification[J]. Journal of Computing and Information Science in Engineering, 2020, 20(2), 021005.
+2. LIU Tianyuan, **Bao Jinsong**, Wang Junliang, Zhang Yiming. A Coarse-Grained Regularization Method of Convolutional Kernel for Molten Pool Defect Identification[J]. Journal of Computing and Information Science in Engineering, 2020, 20(2), 021005.
 
-3. Yang Yun, Wang Jiacheng, Liu Tianyuan, Lv Xiaolei, **Bao Jinsong***. Improved Long Short-Term Memory Network with Multi-Attention for Human Action Flow Evaluation in Workshop[J]. Applied Sciences, 2020, 10(21): 7856.
+3. Yang Yun, Wang Jiacheng, Liu Tianyuan, Lv Xiaolei, **Bao Jinsong**. Improved Long Short-Term Memory Network with Multi-Attention for Human Action Flow Evaluation in Workshop[J]. Applied Sciences, 2020, 10(21): 7856.
 
 4. Liu Ziwen, Xiao Lei*, **Bao Jinsong**, Tao Qingbao. Bearing Incipient Fault Detection Method Based on Stochastic Resonance with Triple-Well Potential System. Journal of Shanghai Jiaotong University (Science), 2020:1-6.
 
-5. Farooq Basit, **Bao Jinsong***, Ma Qingwen. Flow-Shop Predictive Modeling for Multi-Automated Guided Vehicles Scheduling in Smart Spinning Cyber-physical Production Systems. Electronics, 2020, 9(5).
+5. Farooq Basit, **Bao Jinsong**, Ma Qingwen. Flow-Shop Predictive Modeling for Multi-Automated Guided Vehicles Scheduling in Smart Spinning Cyber-physical Production Systems. Electronics, 2020, 9(5).
 
-6. Li Zhiqiang, **Bao Jinsong***, Liu Tianyuan, Wang Jiacheng. Judging the Normativity of PAF Based on TFN and NAN. Journal of Shanghai Jiaotong University (Science), 2020, 25(5): 569-577.
+6. Li Zhiqiang, **Bao Jinsong**, Liu Tianyuan, Wang Jiacheng. Judging the Normativity of PAF Based on TFN and NAN. Journal of Shanghai Jiaotong University (Science), 2020, 25(5): 569-577.
 
-7. Chen Zhiyu, **Bao Jinsong***, Zheng Xiaohu, Liu Tianyuan. Assembly Information Model Based on Knowledge Graph. Journal of Shanghai Jiaotong University (Science), 2020, 25(5): 578-588.
+7. Chen Zhiyu, **Bao Jinsong**, Zheng Xiaohu, Liu Tianyuan. Assembly Information Model Based on Knowledge Graph. Journal of Shanghai Jiaotong University (Science), 2020, 25(5): 578-588.
 
 
 2019
 ======
 
-1. 殷士勇,**鲍劲松***,孙学民,王佳铖.基于信息物理系统的环锭纺纱智能车间温度闭环精准控制方法. 纺织学报, 2019,40(2):159-165
+1. 殷士勇,**鲍劲松**,孙学民,王佳铖.基于信息物理系统的环锭纺纱智能车间温度闭环精准控制方法. 纺织学报, 2019,40(2):159-165
 
 2. **鲍劲松**,李志强,周亚勤.基于遗传算法的舰载装备多目标作业调度优化研究. 系统仿真学报, 2019, 31(5):901-908
 
-1. YIN Shiyong, **Bao Jinsong***, ZHANG Jie, Li Jie. Real-time task processing method based on edge computing for spinning CPS. Front. Mech. Eng.2019, 14(3):320–331.
+1. YIN Shiyong, **Bao Jinsong**, ZHANG Jie, Li Jie. Real-time task processing method based on edge computing for spinning CPS. Front. Mech. Eng.2019, 14(3):320–331.
 
-2. SUN Xuemin, **Bao Jinsong***, LI Jie, ZHANG Yiming, LIU Shimin, ZHOU Bin. A Digital Twin-Driven Approach for the Assembly-Commissioning of High Precision Products. Robotics and Computer Integrated Manufacturing, 2019,61.
+2. SUN Xuemin, **Bao Jinsong**, LI Jie, ZHANG Yiming, LIU Shimin, ZHOU Bin. A Digital Twin-Driven Approach for the Assembly-Commissioning of High Precision Products. Robotics and Computer Integrated Manufacturing, 2019,61.
 
 
 
@@ -200,15 +200,15 @@ author_profile: true
 
 2. **Bao Jinsong**, ZHENG Xiaohu, ZHANG Jianguo, et al. Data-driven process planning for shipbuilding. AI Edam-Artificial Intelligence for Engineering Design Analysis and Manufacturing, 2018,32(1):122-130.
 
-3. LIU Tianyuan, **Bao Jinsong***, WANG Junliang, ZHANG Yiming. A Hybrid CNN–LSTM Algorithm for Online Defect Recognition of CO2 Welding. Sensors,2018, 18(12):4369.
+3. LIU Tianyuan, **Bao Jinsong**, WANG Junliang, ZHANG Yiming. A Hybrid CNN–LSTM Algorithm for Online Defect Recognition of CO2 Welding. Sensors,2018, 18(12):4369.
 
-4. YIN Shiyong, **Bao Jinsong***, ZHANG Yiming, HUANG Xiaodi. M2M Security Technology of CPS Based on Blockchains. Symmetry-Basel, 2017,9(9):193.
+4. YIN Shiyong, **Bao Jinsong**, ZHANG Yiming, HUANG Xiaodi. M2M Security Technology of CPS Based on Blockchains. Symmetry-Basel, 2017,9(9):193.
 
 5. **Bao Jinsong**, WANG Qian, ZHENG Xiaohu, ZHANG Jianguo, JI Xia. A human-machine interaction approach of block erection schedule with three-dimensional spatial constraints, Concurrent Engineering-Research and Applications,2016,24(4):359-368.
 
 国际会议论文 | Conference papers
 ======
-1. Shen Xingwang, Liu Shimin, Zhou Bin, Zheng Yu, **Bao Jinsong***. Digital twin-based scheduling method for marine equipment material transportation vehicles. 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE). IEEE, 2022: 100-105.
+1. Shen Xingwang, Liu Shimin, Zhou Bin, Zheng Yu, **Bao Jinsong**. Digital twin-based scheduling method for marine equipment material transportation vehicles. 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE). IEEE, 2022: 100-105.
 
 2. Rong Zhang; Xinyu Li; Yu Zheng; Jianhao Lv; Jie Li; Pai Zheng; **Jinsong Bao**. Cognition-driven Robot Decision Making Method in Human-robot Collaboration Environment. 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), 2022, pp. 54-59.
 
@@ -216,7 +216,7 @@ author_profile: true
 
 4. Jiang Yanan, Liu Yahui, **Bao Jinsong**, Li Jie, Zhang Jie, Fang Yunhao.Human-in-Cognition Manfacturing-Loop（HCML）: Framework and Technologies. Proceedings of the ASME 2020 15th International Manufacturing Science and Engineering Conference, 2020.
 
-5. SUN Xuemin, **Bao Jinsong***, YIN Shiyong, LI Zhiqiang. Global Optimization of Thermal Fatigue Resistance of Brake Disc Materials Based on Genetic Algorithm and Neural Network. IOP Conference Series: MSE,2018
+5. SUN Xuemin, **Bao Jinsong**, YIN Shiyong, LI Zhiqiang. Global Optimization of Thermal Fatigue Resistance of Brake Disc Materials Based on Genetic Algorithm and Neural Network. IOP Conference Series: MSE,2018
 
 6. **Bao Jinsong**, YUAN Guangchao, ZHENG Xiaohu, ZHANG Jianguo, JI Xia. A Data Driven Model for Predicting Tool Health Condition in High Speed Milling of Titanium Plates Using Real-Time SCADA. 24th CIRP LCE, Kamakura, Japan, MAR 08-10, 2017
 
