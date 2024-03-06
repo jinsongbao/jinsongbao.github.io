@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "BAO JINSONG"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I, a dedicated enthusiast focusing on industrial artificial intelligence and digital twin technology. My current interest revolves around the application of generative artificial intelligence in the industrial domain. With expertise in [relevant field or education], I explore the practical implementation of AI to optimize industrial processes and enhance productivity. By leveraging generative AI techniques, I strive to develop innovative solutions for industrial challenges. I remain actively engaged in staying updated with the latest advancements in this field and aim to contribute to the development of cutting-edge technologies that drive efficiency and sustainability in industry."
   location         : "Shanghai"
   employer         : "Donghua University"
   uri              : # URL
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,9 +64,9 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # Replace this with your X / Twitter handle
   vine             : # Username
-  weibo            : # Username
+  weibo            : “laobao” # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
