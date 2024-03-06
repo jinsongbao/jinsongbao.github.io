@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "BAO JINSONG"
   pronouns         : # example: "she/her"  
-  bio              : "I, a dedicated enthusiast focusing on industrial artificial intelligence and digital twin technology. My current interest revolves around the application of generative artificial intelligence in the industrial domain. With expertise in [relevant field or education], I explore the practical implementation of AI to optimize industrial processes and enhance productivity. By leveraging generative AI techniques, I strive to develop innovative solutions for industrial challenges. I remain actively engaged in staying updated with the latest advancements in this field and aim to contribute to the development of cutting-edge technologies that drive efficiency and sustainability in industry."
+  bio              : "Professor,PhD. Director Institute of Intelligent Manufacturing"
   location         : "Shanghai"
   employer         : "Donghua University"
   uri              : # URL
@@ -35,8 +35,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "http://orcid.org/yourorcidurl" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

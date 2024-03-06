@@ -1,6 +1,6 @@
 ---
 title: "Current interests"
-excerpt: "GPTwin<br/><img src='/images/500x300.png'>"
+excerpt: "GPTwin <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
